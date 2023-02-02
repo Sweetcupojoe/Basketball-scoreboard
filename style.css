@@ -52,16 +52,16 @@ body {
   display: flex;
   justify-content: space-around;
   position: absolute;
-  top: 180;
-  left: 65;
+  margin-top: 180;
+  margin-left: 65;
 }
 
 .guestscorebtn {
     display: flex;
     justify-content: space-around;
     position: absolute;
-  top: 180;
-  left: 315;
+  margin-top: 180;
+  margin-left: 315;
 }
 
 button {
